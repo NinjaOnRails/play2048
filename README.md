@@ -1,0 +1,1 @@
+Launches Firefox web browser and plays the 2048 game automatically. Tested on macOS Sierra and Firefox 45.0.2. Probably won’t work on the newer versions.
